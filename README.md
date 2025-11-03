@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bansakai/Mythos/Master/Resources/Logo.png" width="90" /><br>
+<img src="https://github.com/bansakai/Liquid-Glass-Icons/blob/main/Assets/Placeholder.png?raw=true" width="128" /><br>
 # Liquid Glass Icons
 **A curated collection of handcrafted icons designed in Apple’s Icon Composer for macOS 26.**
 
