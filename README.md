@@ -1,4 +1,3 @@
-<img src="https://github.com/bansakai/Liquid-Glass-Icons/blob/main/Assets/Placeholder.png?raw=true" width="128" /><br>
 # Liquid Glass Icons
 **A collection of handcrafted icons designed in Apple’s Icon Composer for macOS 26.**
 
